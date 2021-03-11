@@ -1,3 +1,3 @@
 # test-public
-A private test respositiory.
+A public test respositiory.
 This has been updated recently.
